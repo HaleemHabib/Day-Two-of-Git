@@ -10,6 +10,7 @@ public class Practiceonly {
 		String name = "Fat Boy";
 		String LastName = "But Smart";
 		System.out.println("Good Practice==============Keep it up");
+		//These codes are from the Remote Repo. Continue coding!
 	}
 
 }
